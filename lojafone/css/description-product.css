@@ -19,6 +19,7 @@
   top: 8px;
   left: -47px;
   cursor: pointer;
+  width: 0px;
 }
 
 .description-product > .item.-star {
