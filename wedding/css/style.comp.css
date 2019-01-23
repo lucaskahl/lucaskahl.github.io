@@ -268,7 +268,10 @@ img {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    margin-left: 0; } }
+    margin-left: 0; }
+  .counter-date ul > .date {
+    padding: 10px;
+    margin-top: 55px; } }
 
 .container {
   position: relative; }
